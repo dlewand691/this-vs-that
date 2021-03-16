@@ -59,7 +59,7 @@ There are two ways to define the dimension for an element:
     In the following example, the \`height: 200px\` property will override the \`height="100px"\` attribute:
 
     ~~~ html
-    <!-- The image will have the width of 200px -->
+    <!-- The image will have the height of 200px -->
     <img height="100px" style="height: 200px" />
     ~~~
 
